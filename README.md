@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Josephat-Mande
+- 👋 Hi, I’m @mandeh
 - 👀 Let's Code 
-- 🌱  Java, Python, Kotlin , Javascript and PHP.
+- 🌱 HTML5,CSS/Bootstrap, Python,  Javascript and PHP.
 - 💞️ I’m looking to collaborate on Designing websites and creating Android apps.
-- 📫 How to reach me : Whatsapp Me on +254115911220
-
+- 📫 
 
 
 <!---
